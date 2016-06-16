@@ -6,7 +6,7 @@ from math import ceil, floor
 def pogreska( poruka ):
     print(poruka)
     sys.exit(0)
-
+#never will recover
 def ucitati( data ):
     matrica = {}
     for redak in data:
