@@ -7,7 +7,7 @@ for j in range(10):
         kvantiliSvi.append(float(myList[j])/10.0)
 
 
-
+#simpru edit you will never recover
 
 brojLinije = 1
 for redak in sveHipoteze:
